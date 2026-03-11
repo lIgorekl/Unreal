@@ -1,5 +1,45 @@
-[8956:8108:0311/120229.249:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8956:11368:0311/120229.290:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8956:8108:0311/120229.326:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17904:17896:0311/120232.809:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-18526E202171E44AC47E42347AEE1041 will be ignored
-[8956:8108:0311/120252.690:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4188:5828:0311/152545.413:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4188:5828:0311/152545.455:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[4188:5828:0311/152545.536:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8120:9736:0311/152553.075:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-595CBF6F50FFE378F1E131AAEFD66D02 will be ignored
+[4188:7796:0311/152553.668:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[4188:5828:0311/152553.728:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[4188:5828:0311/152553.728:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[4188:5828:0311/152553.729:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[4188:5828:0311/152553.729:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[4188:7796:0311/152553.819:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[4420:12636:0311/152615.083:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4420:12636:0311/152634.342:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[4188:7796:0311/152802.241:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[4188:7796:0311/153018.625:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[4188:7796:0311/153239.346:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[4188:7796:0311/153507.077:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[4188:7796:0311/153734.129:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[4188:7796:0311/154000.192:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4188:5828:0311/154000.843:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4188:5828:0311/154000.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4188:5828:0311/154000.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[4188:5828:0311/154000.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[5824:12432:0311/154227.568:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5824:12432:0311/154227.568:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[4188:5828:0311/163059.071:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
