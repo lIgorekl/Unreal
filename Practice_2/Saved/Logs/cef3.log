@@ -1,45 +1,277 @@
-[4188:5828:0311/152545.413:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4188:5828:0311/152545.455:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
-[4188:5828:0311/152545.536:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8120:9736:0311/152553.075:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-595CBF6F50FFE378F1E131AAEFD66D02 will be ignored
-[4188:7796:0311/152553.668:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
-[4188:5828:0311/152553.728:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[4188:5828:0311/152553.728:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[4188:5828:0311/152553.729:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[4188:5828:0311/152553.729:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[4188:7796:0311/152553.819:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[4420:12636:0311/152615.083:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[4420:12636:0311/152634.342:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
-[4188:7796:0311/152802.241:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[4188:5828:0311/152802.565:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
-[4188:7796:0311/153018.625:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
-[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
-[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
-[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
-[4188:5828:0311/153018.948:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
-[4188:7796:0311/153239.346:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[4188:5828:0311/153239.670:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
-[4188:7796:0311/153507.077:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
-[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
-[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
-[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
-[4188:5828:0311/153507.397:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
-[4188:7796:0311/153734.129:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
-[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
-[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
-[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
-[4188:5828:0311/153734.452:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
-[4188:7796:0311/154000.192:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
-[4188:5828:0311/154000.843:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
-[4188:5828:0311/154000.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
-[4188:5828:0311/154000.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
-[4188:5828:0311/154000.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
-[5824:12432:0311/154227.568:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[5824:12432:0311/154227.568:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[4188:5828:0311/163059.071:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13224:13228:0407/172502.855:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13224:13228:0407/172503.007:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10020:8324:0407/172512.236:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4DED8E45212C142ABC59E4C95DAB428D will be ignored
+[13224:8280:0407/172514.895:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13224:13228:0407/172515.550:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13224:13228:0407/172515.550:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13224:13228:0407/172515.551:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13224:13228:0407/172515.551:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[13224:8280:0407/172515.558:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10028:3200:0407/172532.423:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10028:3200:0407/172551.544:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13224:8280:0407/172726.229:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13224:13228:0407/172726.290:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13224:13228:0407/172726.291:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13224:13228:0407/172726.291:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13224:13228:0407/172726.291:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[13224:8280:0407/172934.186:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[13224:13228:0407/172934.230:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[13224:13228:0407/172934.230:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[13224:13228:0407/172934.231:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[13224:13228:0407/172934.231:WARNING:browser_info.cc(345)] Returning a speculative frame for [12,9]
+[13224:8280:0407/173149.193:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[13224:13228:0407/173149.509:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[13224:13228:0407/173149.509:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[13224:13228:0407/173149.509:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[13224:13228:0407/173149.509:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[32:13764:0407/173154.510:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32:13764:0407/173154.697:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32:11848:0407/173154.728:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32:11848:0407/173154.729:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32:11848:0407/173154.730:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10028:3200:0407/173154.871:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173154.872:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173154.899:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173154.899:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173154.929:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/173154.929:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/173154.929:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/173154.929:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/173154.929:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/173154.929:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[32:11848:0407/173154.929:WARNING:stun_port.cc(442)] Port[23b1c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32:11848:0407/173154.929:WARNING:stun_port.cc(442)] Port[23b2400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32:11848:0407/173154.929:WARNING:stun_port.cc(442)] Port[23b2c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32:11848:0407/173154.929:WARNING:stun_port.cc(442)] Port[23b1c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32:11848:0407/173154.929:WARNING:stun_port.cc(442)] Port[23b2400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32:11848:0407/173154.929:WARNING:stun_port.cc(442)] Port[23b2c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13224:8280:0407/173415.222:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[13224:13228:0407/173415.261:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[13224:13228:0407/173415.262:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[13224:13228:0407/173415.262:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[13224:13228:0407/173415.262:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[2380:4024:0407/173417.119:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2380:4024:0407/173417.129:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2380:1348:0407/173417.141:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2380:1348:0407/173417.141:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2380:1348:0407/173417.143:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10028:3200:0407/173417.181:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173417.182:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173417.209:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173417.211:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/173417.211:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/173417.211:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[2380:1348:0407/173417.211:WARNING:stun_port.cc(442)] Port[240cc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2380:1348:0407/173417.211:WARNING:stun_port.cc(442)] Port[240d400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2380:1348:0407/173417.211:WARNING:stun_port.cc(442)] Port[240dc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10028:3200:0407/173417.212:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/173417.241:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/173417.241:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/173417.241:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2380:1348:0407/173417.241:WARNING:stun_port.cc(442)] Port[240cc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2380:1348:0407/173417.241:WARNING:stun_port.cc(442)] Port[240d400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2380:1348:0407/173417.241:WARNING:stun_port.cc(442)] Port[240dc00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13224:8280:0407/173638.188:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[13224:13228:0407/173638.512:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[13224:13228:0407/173638.513:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[13224:13228:0407/173638.513:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[13224:13228:0407/173638.513:WARNING:browser_info.cc(345)] Returning a speculative frame for [15,9]
+[10028:3200:0407/173904.908:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 109
+[13224:8280:0407/173907.214:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[13224:13228:0407/173907.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[13224:13228:0407/173907.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[13224:13228:0407/173907.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[13224:13228:0407/173907.872:WARNING:browser_info.cc(345)] Returning a speculative frame for [16,9]
+[13224:8280:0407/174135.897:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[13224:13228:0407/174136.223:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[13224:13228:0407/174136.223:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[13224:13228:0407/174136.223:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[13224:13228:0407/174136.223:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,9]
+[13224:8280:0407/174402.931:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[13224:13228:0407/174403.590:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[13224:13228:0407/174403.590:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[13224:13228:0407/174403.590:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[13224:13228:0407/174403.590:WARNING:browser_info.cc(345)] Returning a speculative frame for [18,9]
+[13224:8280:0407/174632.958:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[13224:13228:0407/174633.284:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[13224:13228:0407/174633.284:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[13224:13228:0407/174633.284:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[13224:13228:0407/174633.284:WARNING:browser_info.cc(345)] Returning a speculative frame for [19,9]
+[9184:8784:0407/174637.952:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9184:8784:0407/174637.963:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9184:3952:0407/174637.971:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9184:3952:0407/174637.971:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[9184:3952:0407/174637.971:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10028:3200:0407/174638.314:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174638.315:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174638.342:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174638.342:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/174638.342:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/174638.342:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[9184:3952:0407/174638.342:WARNING:stun_port.cc(442)] Port[2ca4c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9184:3952:0407/174638.342:WARNING:stun_port.cc(442)] Port[2ca5400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9184:3952:0407/174638.342:WARNING:stun_port.cc(442)] Port[2ca5c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10028:3200:0407/174638.343:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174638.370:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/174638.370:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/174638.370:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[9184:3952:0407/174638.370:WARNING:stun_port.cc(442)] Port[2ca4c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9184:3952:0407/174638.370:WARNING:stun_port.cc(442)] Port[2ca5400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[9184:3952:0407/174638.370:WARNING:stun_port.cc(442)] Port[2ca5c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13224:8280:0407/174900.994:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[13224:13228:0407/174901.320:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[13224:13228:0407/174901.321:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[13224:13228:0407/174901.321:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[13224:13228:0407/174901.321:WARNING:browser_info.cc(345)] Returning a speculative frame for [20,9]
+[12748:9356:0407/174908.656:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12748:9356:0407/174908.663:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12748:4620:0407/174908.672:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12748:4620:0407/174908.672:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12748:4620:0407/174908.673:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10028:3200:0407/174909.007:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174909.008:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174909.036:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174909.043:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/174909.048:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/174909.048:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/174909.048:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12748:4620:0407/174909.052:WARNING:stun_port.cc(442)] Port[27a2800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12748:4620:0407/174909.052:WARNING:stun_port.cc(442)] Port[27a0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12748:4620:0407/174909.052:WARNING:stun_port.cc(442)] Port[27a1400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10028:3200:0407/174909.064:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/174909.064:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/174909.064:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[12748:4620:0407/174909.064:WARNING:stun_port.cc(442)] Port[27a2800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12748:4620:0407/174909.064:WARNING:stun_port.cc(442)] Port[27a0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12748:4620:0407/174909.064:WARNING:stun_port.cc(442)] Port[27a1400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13224:8280:0407/175129.701:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[13224:13228:0407/175130.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[13224:13228:0407/175130.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[13224:13228:0407/175130.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[13224:13228:0407/175130.359:WARNING:browser_info.cc(345)] Returning a speculative frame for [21,9]
+[13224:8280:0407/175356.744:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[13224:13228:0407/175357.405:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[13224:13228:0407/175357.405:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[13224:13228:0407/175357.405:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[13224:13228:0407/175357.405:WARNING:browser_info.cc(345)] Returning a speculative frame for [22,9]
+[10028:3200:0407/175609.927:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13224:8280:0407/175623.110:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[13224:13228:0407/175623.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[13224:13228:0407/175623.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[13224:13228:0407/175623.435:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[13224:13228:0407/175623.436:WARNING:browser_info.cc(345)] Returning a speculative frame for [23,9]
+[10028:3200:0407/175628.948:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13224:8280:0407/175851.473:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[13224:13228:0407/175851.797:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[13224:13228:0407/175851.797:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[13224:13228:0407/175851.797:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[13224:13228:0407/175851.797:WARNING:browser_info.cc(345)] Returning a speculative frame for [24,9]
+[4592:10908:0407/175855.130:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4592:10908:0407/175855.138:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4592:6152:0407/175855.146:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4592:6152:0407/175855.146:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4592:6152:0407/175855.146:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10028:3200:0407/175855.481:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/175855.484:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/175855.510:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/175855.510:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/175855.510:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/175855.510:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[4592:6152:0407/175855.510:WARNING:stun_port.cc(442)] Port[1fd4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4592:6152:0407/175855.510:WARNING:stun_port.cc(442)] Port[1fd4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4592:6152:0407/175855.510:WARNING:stun_port.cc(442)] Port[1fd4c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10028:3200:0407/175855.511:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/175855.540:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/175855.540:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/175855.540:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[4592:6152:0407/175855.540:WARNING:stun_port.cc(442)] Port[1fd4000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4592:6152:0407/175855.543:WARNING:stun_port.cc(442)] Port[1fd4400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4592:6152:0407/175855.543:WARNING:stun_port.cc(442)] Port[1fd4c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13224:8280:0407/180118.497:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[13224:13228:0407/180118.820:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[13224:13228:0407/180118.820:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[13224:13228:0407/180118.820:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[13224:13228:0407/180118.820:WARNING:browser_info.cc(345)] Returning a speculative frame for [25,9]
+[13224:8280:0407/180345.852:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[13224:13228:0407/180346.178:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[13224:13228:0407/180346.178:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[13224:13228:0407/180346.178:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[13224:13228:0407/180346.178:WARNING:browser_info.cc(345)] Returning a speculative frame for [26,9]
+[2564:4608:0407/180352.177:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2564:4608:0407/180352.191:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2564:10040:0407/180352.204:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2564:10040:0407/180352.204:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2564:10040:0407/180352.205:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10028:3200:0407/180352.531:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/180352.531:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/180352.559:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/180352.559:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/180352.559:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/180352.559:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[2564:10040:0407/180352.559:WARNING:stun_port.cc(442)] Port[52e3400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2564:10040:0407/180352.559:WARNING:stun_port.cc(442)] Port[537c000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2564:10040:0407/180352.559:WARNING:stun_port.cc(442)] Port[537c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10028:3200:0407/180352.562:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/180352.593:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/180352.593:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/180352.593:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2564:10040:0407/180352.594:WARNING:stun_port.cc(442)] Port[52e3400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2564:10040:0407/180352.594:WARNING:stun_port.cc(442)] Port[537c000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2564:10040:0407/180352.594:WARNING:stun_port.cc(442)] Port[537c400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13224:8280:0407/180614.555:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[13224:13228:0407/180614.880:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[13224:13228:0407/180614.880:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[13224:13228:0407/180614.881:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[13224:13228:0407/180614.881:WARNING:browser_info.cc(345)] Returning a speculative frame for [27,9]
+[10028:3200:0407/180839.286:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 269
+[13224:8280:0407/180841.588:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[13224:13228:0407/180842.246:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[13224:13228:0407/180842.246:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[13224:13228:0407/180842.246:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[13224:13228:0407/180842.246:WARNING:browser_info.cc(345)] Returning a speculative frame for [28,9]
+[13224:8280:0407/181108.952:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[13224:13228:0407/181109.274:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[13224:13228:0407/181109.274:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[13224:13228:0407/181109.275:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[13224:13228:0407/181109.275:WARNING:browser_info.cc(345)] Returning a speculative frame for [29,9]
+[13224:8280:0407/181335.982:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[13224:13228:0407/181336.309:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[13224:13228:0407/181336.309:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[13224:13228:0407/181336.309:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[13224:13228:0407/181336.309:WARNING:browser_info.cc(345)] Returning a speculative frame for [30,9]
+[13224:8280:0407/181603.014:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[13224:13228:0407/181603.340:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[13224:13228:0407/181603.340:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[13224:13228:0407/181603.340:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[13224:13228:0407/181603.340:WARNING:browser_info.cc(345)] Returning a speculative frame for [31,9]
+[10312:12492:0407/181608.671:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10312:12492:0407/181608.677:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10312:6812:0407/181608.684:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10312:6812:0407/181608.684:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10312:6812:0407/181608.685:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[10028:3200:0407/181609.024:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/181609.024:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/181609.054:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/181609.082:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/181609.082:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10028:3200:0407/181609.082:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[10312:6812:0407/181609.082:WARNING:stun_port.cc(442)] Port[296ec00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10312:6812:0407/181609.082:WARNING:stun_port.cc(442)] Port[296f400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10312:6812:0407/181609.082:WARNING:stun_port.cc(442)] Port[26ec000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10028:3200:0407/181609.153:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[10028:3200:0407/181609.153:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/181609.153:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10028:3200:0407/181609.153:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[10312:6812:0407/181609.153:WARNING:stun_port.cc(442)] Port[296ec00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10312:6812:0407/181609.153:WARNING:stun_port.cc(442)] Port[296f400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[10312:6812:0407/181609.153:WARNING:stun_port.cc(442)] Port[26ec000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13224:8280:0407/181829.373:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[13224:13228:0407/181829.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[13224:13228:0407/181829.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[13224:13228:0407/181829.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[13224:13228:0407/181829.699:WARNING:browser_info.cc(345)] Returning a speculative frame for [32,9]
+[5040:10868:0407/182054.809:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5040:10868:0407/182054.809:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10028:3200:0407/193022.624:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10028:3200:0407/193041.680:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13224:13228:0407/204521.298:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
