@@ -1,0 +1,5 @@
+[9052:16872:0421/172629.024:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[9052:16872:0421/172629.078:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[9052:16872:0421/172629.247:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11784:14144:0421/172635.126:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-08B525D1CD4EB5950A17C363AB31EF1C will be ignored
+[9052:16872:0421/190108.937:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
