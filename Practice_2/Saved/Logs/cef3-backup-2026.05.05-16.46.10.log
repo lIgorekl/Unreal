@@ -1,0 +1,6 @@
+[12980:16692:0505/193256.951:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12980:16692:0505/193257.037:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7060:20236:0505/193302.110:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7060:20236:0505/193302.681:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[10660:18356:0505/193311.986:ERROR:frame_impl.cc(537)] frame 5-C55115B3276E424A964CF2BA7F61F9A1 connection timeout
+[12980:16692:0505/194610.578:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

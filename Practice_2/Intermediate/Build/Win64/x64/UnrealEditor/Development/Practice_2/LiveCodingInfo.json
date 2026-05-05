@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Practice_2.gen.cpp.obj": [
+			"AsteroidPickUp.gen.cpp.obj",
+			"AsteroidSpawner.gen.cpp.obj",
+			"PickUpBase.gen.cpp.obj",
+			"Practice_2.init.gen.cpp.obj"
+		]
+	}
+}
