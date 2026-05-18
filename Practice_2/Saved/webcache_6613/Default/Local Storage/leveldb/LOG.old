@@ -1,5 +1,14 @@
-2026/05/18-16:24:57.972 4870 Reusing MANIFEST F:\Other programs and files\GitHub\Unreal\Practice_2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/18-16:24:57.983 4870 Recovering log #10
-2026/05/18-16:24:58.009 4870 Level-0 table #13: started
-2026/05/18-16:24:58.062 4870 Level-0 table #13: 77426 bytes OK
-2026/05/18-16:24:58.127 4870 Delete type=0 #10
+2026/05/18-19:16:04.199 4d88 Reusing MANIFEST F:\Other programs and files\GitHub\Unreal\Practice_2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/18-19:16:04.206 4d88 Recovering log #14
+2026/05/18-19:16:04.207 4d88 Level-0 table #16: started
+2026/05/18-19:16:04.255 4d88 Level-0 table #16: 64146 bytes OK
+2026/05/18-19:16:04.284 4d88 Delete type=0 #14
+2026/05/18-19:16:04.285 304 Compacting 4@0 + 1@1 files
+2026/05/18-19:16:04.434 304 Generated table #18@0: 8 keys, 30241 bytes
+2026/05/18-19:16:04.434 304 Compacted 4@0 + 1@1 files => 30241 bytes
+2026/05/18-19:16:04.458 304 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/18-19:16:04.459 304 Delete type=2 #7
+2026/05/18-19:16:04.459 304 Delete type=2 #9
+2026/05/18-19:16:04.459 304 Delete type=2 #11
+2026/05/18-19:16:04.460 304 Delete type=2 #13
+2026/05/18-19:16:04.460 304 Delete type=2 #16
