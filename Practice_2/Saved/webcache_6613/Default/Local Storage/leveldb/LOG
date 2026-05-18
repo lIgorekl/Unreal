@@ -1,3 +1,5 @@
-2026/05/05-20:51:13.222 3b5c Reusing MANIFEST F:\Other programs and files\GitHub\Unreal\Practice_2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/05-20:51:13.229 3b5c Recovering log #3
-2026/05/05-20:51:13.361 3b5c Reusing old log F:\Other programs and files\GitHub\Unreal\Practice_2\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/18-16:24:57.972 4870 Reusing MANIFEST F:\Other programs and files\GitHub\Unreal\Practice_2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/18-16:24:57.983 4870 Recovering log #10
+2026/05/18-16:24:58.009 4870 Level-0 table #13: started
+2026/05/18-16:24:58.062 4870 Level-0 table #13: 77426 bytes OK
+2026/05/18-16:24:58.127 4870 Delete type=0 #10
