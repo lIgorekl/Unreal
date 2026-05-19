@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practice_2ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9c37e8b7ad2060c773e2290eda9661481ba85dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f45942c5d9861548fb626a0a71e19e5f85ff250")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practice_2ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practice_2ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
