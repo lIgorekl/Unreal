@@ -1,10 +1,7 @@
-[3096:3328:0520/064151.605:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3096:3328:0520/064152.104:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14328:15980:0520/064200.026:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-73BA8376961C0809E06519A4236485E6 will be ignored
-[3096:3328:0520/070149.404:ERROR:device_event_log_impl.cc(196)] [07:01:49.095] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Элемент не найден. (0x490)
-[3096:3328:0520/070351.610:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3096:3328:0520/070406.842:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3096:3328:0520/070552.451:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3096:3328:0520/070557.471:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3096:3328:0520/084929.394:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[3096:3328:0520/094104.416:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14616:4300:0520/094447.737:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14616:4300:0520/094447.843:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18180:13628:0520/094503.915:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E7CF61E658D341D7D30F454E3CE56387 will be ignored
+[14436:16548:0520/100759.122:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-C26B03006195E16CEA80FE88181789BF will be ignored
+[14616:4300:0520/101611.618:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14616:4300:0520/101626.721:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[14616:4300:0520/101631.761:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
