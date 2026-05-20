@@ -15,8 +15,6 @@ AAsteroidPickUp::AAsteroidPickUp()
 void AAsteroidPickUp::BeginPlay()
 {
 	Super::BeginPlay();
-
-	PickUpMeshComponent->SetSimulatePhysics(true);
 }
 
 // Called every frame
@@ -24,5 +22,8 @@ void AAsteroidPickUp::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	AddActorWorldOffset(MoveDirection * MoveSpeed * DeltaTime);
+
+	AddActorLocalRotation(RotationSpeed * DeltaTime);
 }
 

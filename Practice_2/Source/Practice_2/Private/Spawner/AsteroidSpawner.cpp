@@ -56,7 +56,7 @@ void AAsteroidSpawner::SpawnActors()
 	Parameters.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButAlwaysSpawn;
 
 	APickUpBase* SpawnedActor = GetWorld()->SpawnActor<APickUpBase>(ActorToSpawn, GetRandomSpawnPoint(),
-		UKismetMathLibrary::RandomRotator(), Parameters);
+		FRotator(0.f, 0.f, 0.f), Parameters);
 
 	StartSpawnTimer();
 }
